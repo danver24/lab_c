@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/EcoLab1/EcoLab1_code/cmake-build-debug/CMakeFiles/EcoLab1.dir/embed.manifest"

@@ -1,0 +1,104 @@
+int
+sort,size,time
+GnomeSort,1024,0.010000
+GnomeSort,2048,0.039000
+GnomeSort,4096,0.157000
+GnomeSort,8192,0.641000
+GnomeSort,16384,2.663000
+GnomeSort,32768,10.687000
+GnomeSort,65536,41.601000
+
+InsertionSort,1024,0.003000
+InsertionSort,2048,0.012000
+InsertionSort,4096,0.047000
+InsertionSort,8192,0.197000
+InsertionSort,16384,0.786000
+InsertionSort,32768,3.081000
+InsertionSort,65536,12.356000
+
+std qsort,1024,0.000000
+std qsort,2048,0.001000
+std qsort,4096,0.001000
+std qsort,8192,0.001000
+std qsort,16384,0.003000
+std qsort,32768,0.006000
+std qsort,65536,0.012000
+
+float
+sort,size,time
+GnomeSort,1024,0.009000
+GnomeSort,2048,0.036000
+GnomeSort,4096,0.148000
+GnomeSort,8192,0.584000
+GnomeSort,16384,2.323000
+GnomeSort,32768,9.312000
+GnomeSort,65536,37.468000
+
+InsertionSort,1024,0.003000
+InsertionSort,2048,0.013000
+InsertionSort,4096,0.048000
+InsertionSort,8192,0.197000
+InsertionSort,16384,0.770000
+InsertionSort,32768,3.097000
+InsertionSort,65536,12.460000
+
+std qsort,1024,0.000000
+std qsort,2048,0.000000
+std qsort,4096,0.001000
+std qsort,8192,0.002000
+std qsort,16384,0.003000
+std qsort,32768,0.007000
+std qsort,65536,0.013000
+
+double
+sort,size,time
+GnomeSort,1024,0.014000
+GnomeSort,2048,0.059000
+GnomeSort,4096,0.236000
+GnomeSort,8192,0.930000
+GnomeSort,16384,3.705000
+GnomeSort,32768,14.747000
+GnomeSort,65536,59.360000
+
+InsertionSort,1024,0.005000
+InsertionSort,2048,0.019000
+InsertionSort,4096,0.076000
+InsertionSort,8192,0.313000
+InsertionSort,16384,1.249000
+InsertionSort,32768,4.995000
+InsertionSort,65536,20.161000
+
+std qsort,1024,0.000000
+std qsort,2048,0.000000
+std qsort,4096,0.000000
+std qsort,8192,0.002000
+std qsort,16384,0.004000
+std qsort,32768,0.007000
+std qsort,65536,0.015000
+
+char
+sort,size,time
+GnomeSort,1024,0.004000
+GnomeSort,2048,0.019000
+GnomeSort,4096,0.079000
+GnomeSort,8192,0.317000
+GnomeSort,16384,1.248000
+GnomeSort,32768,4.975000
+GnomeSort,65536,19.993000
+
+InsertionSort,1024,0.002000
+InsertionSort,2048,0.006000
+InsertionSort,4096,0.027000
+InsertionSort,8192,0.107000
+InsertionSort,16384,0.435000
+InsertionSort,32768,1.746000
+InsertionSort,65536,6.971000
+
+std qsort,1024,0.000000
+std qsort,2048,0.000000
+std qsort,4096,0.000000
+std qsort,8192,0.001000
+std qsort,16384,0.001000
+std qsort,32768,0.002000
+std qsort,65536,0.003000
+
